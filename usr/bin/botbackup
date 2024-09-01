@@ -1,0 +1,3 @@
+tar -czvf /root/bot.tar.gz -C /root bot
+
+cp /etc/vnstat/vnstat.db /root/bot/require/etc-vnstat
